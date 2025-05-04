@@ -5,4 +5,11 @@
   "description" : "Responsible for building and maintaining backend APIs.",
   "location" : "Kigali, Rwanda",
   "applicationMethod" : "jobs@techsolutions.rw"
+}, {
+  "id" : 2,
+  "title" : "Backend Developer",
+  "company" : "KOBOT RWANDA",
+  "description" : "this is the job to code the backend",
+  "location" : "Kigali, Rwanda",
+  "applicationMethod" : "email"
 } ]
